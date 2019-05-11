@@ -3,9 +3,9 @@ As a starter to work my way into the "AI" world, I started off with a simple exa
 
 #   The Models
 I was interested in seeing which method outperforms the other. For the first model, I used one convolutional layers with one pooling layer. For the second model, I used three convolutional layers with three pooling layers. For the fourth model, I used four convolutional layers with four pooling layers.
-![Model 1](https://github.com/TheCollinCashio/DogOrCat/master/Metrics/Model1.png)
-![Model 2](https://github.com/TheCollinCashio/DogOrCat/master/Metrics/Model2.png)
-![Model 3](https://github.com/TheCollinCashio/DogOrCat/master/Metrics/Model3.png)
+![Model 1](https://github.com/TheCollinCashio/DogOrCat/blob/master/Metrics/Model1.png)
+![Model 2](https://github.com/TheCollinCashio/DogOrCat/blob/master/Metrics/Model2.png)
+![Model 3](https://github.com/TheCollinCashio/DogOrCat/blob/master/Metrics/Model3.png)
 
 #   The Training Data
 | Set of Images | # of Images   |
